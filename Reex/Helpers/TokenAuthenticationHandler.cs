@@ -48,7 +48,7 @@ namespace Reex.Helpers
             {
                 var user = await firebaseAuthService.GetUser(authHeader.Parameter);
 
-                if (!string.IsNullOrWhiteSpace(user?.Email) || !string.IsNullOrWhiteSpace(user?.UserId))
+                if (!string.IsNullOrWhiteSpace(user?.Email) && !string.IsNullOrWhiteSpace(user?.UserId))
                 {
                     var claims = new[]
                     {
