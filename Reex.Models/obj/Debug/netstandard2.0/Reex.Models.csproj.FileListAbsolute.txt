@@ -1,8 +1,0 @@
-C:\Work\Projects\Reecore.Reex\Reex.Models\bin\Debug\netstandard2.0\Reex.Models.deps.json
-C:\Work\Projects\Reecore.Reex\Reex.Models\bin\Debug\netstandard2.0\Reex.Models.dll
-C:\Work\Projects\Reecore.Reex\Reex.Models\bin\Debug\netstandard2.0\Reex.Models.pdb
-C:\Work\Projects\Reecore.Reex\Reex.Models\obj\Debug\netstandard2.0\Reex.Models.csproj.CoreCompileInputs.cache
-C:\Work\Projects\Reecore.Reex\Reex.Models\obj\Debug\netstandard2.0\Reex.Models.AssemblyInfoInputs.cache
-C:\Work\Projects\Reecore.Reex\Reex.Models\obj\Debug\netstandard2.0\Reex.Models.AssemblyInfo.cs
-C:\Work\Projects\Reecore.Reex\Reex.Models\obj\Debug\netstandard2.0\Reex.Models.dll
-C:\Work\Projects\Reecore.Reex\Reex.Models\obj\Debug\netstandard2.0\Reex.Models.pdb
